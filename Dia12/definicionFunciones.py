@@ -1,6 +1,9 @@
-# Definición de una función
+"""
+Definición de una función
+"""
 def suma(a, b):
-    return a + b
+    resultadoSuma = a + b
+    return resultadoSuma
 
 # Uso de la función
 resultado = suma(3, 5)

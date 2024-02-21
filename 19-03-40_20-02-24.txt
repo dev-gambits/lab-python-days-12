@@ -1,0 +1,10 @@
+
+******************************************
+Tareas pendientes:
+1.- Perro 
+2.- Gato
+3.- Waren
+
+******************************************
+Tareas completadas:
+No hay tareas realizadas :(

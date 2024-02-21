@@ -1,5 +1,5 @@
-# lab-python-days-XX
-Python days XX, initial journey tour
+# lab-python-days-12
+Python days 12, initial journey tour
 
 ## Descripción:
 * 

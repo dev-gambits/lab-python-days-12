@@ -11,7 +11,7 @@ def obtener_partes_url(url):
         "protocolo": url_data.scheme,   # El protocolo utilizado en la URL (por ejemplo, "https").
         "dominio": url_data.netloc,     # El nombre de dominio de la URL (por ejemplo, "example.com").
         "ruta": url_data.path,          # La ruta dentro del dominio (por ejemplo, "/onboarding").
-        "query_params": url_data.query, # Los parámetros de la consulta de la URL (por ejemplo, "type=student").
+        "query_params": url_data.query,  # Los parámetros de la consulta de la URL (por ejemplo, "type=student").
         "etiqueta": url_data.fragment   # La etiqueta o fragmento de la URL (por ejemplo, "section1").
     }
 
